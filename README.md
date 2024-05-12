@@ -41,4 +41,6 @@ this is done in parallel using torch data structure.
 - Finding the Closest Match: After measuring the distance between the encoded representation of the face in question and each encoded representation in the database, you identify the one with the lowest score. This lowest score corresponds to the closest match in the database.
 
 
-
+## 5. Results 
+to try it out. the script uses a video and performs the detection on every frame detecing and annotating the person identity 
+![8pu0lo](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/5a87d117-dbc5-4dc9-bd4e-fc7d68f60239)
