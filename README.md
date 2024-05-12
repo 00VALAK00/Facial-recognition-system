@@ -23,7 +23,7 @@ contrastive loss margin parameter set to : 2
 ![image](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/befccd39-c850-437d-8248-a822f8c10ff9)
 
 ## 2. Performance 
-![image](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/d2c2250a-d43d-43c5-b2ca-7a3104ebc01d)
+![accuracy2](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/8f120649-a6ed-4c3b-b283-96a33030e0bf)
 
 ![loss2](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/9ace3de8-5fff-4fbe-85d4-e2ce3a6b637e)
 
