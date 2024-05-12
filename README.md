@@ -4,21 +4,17 @@ the following repo hightlights how to train a siamese NN on a image similiarty u
 
 ## Workflow
 
-1. Implementing the SNN architecture with DeepLearning
+1. Implementing the SNN architecture with DeepLearning and preparing the similar/different pairs of images.
 
-2. Training & Testing the model
+2. Training & evaluating the model
 
-3. Integrating the facial recognition model with yolo 
+3. Integrating the SNN with yolo 
+
+## 1. Architecture 
+VGG19 was used as encoder for the lack of data and some layers were added for the network to understand how to distinguish similar from different pairs
+![image](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/befccd39-c850-437d-8248-a822f8c10ff9)
 
 
-RAG stands for retrieval augmented generation, a technique developped by researchers to eliminate the need for retraining the model's parameters and reduce model hallucinations.
-The main concept of RAG is 
-1. dividing the source file into chunks 
-2. Encode the chunks using sentence-encoder
-3. instead of the prompt going straight to the model, we mesure the similarites between the encoded prompt and encoded chunks and retain the chunks with the hightest score(similarity metrics such as cosine similarity)
-4. Injecting the prompt with the additional context and deliver it to the model for inference.
-It allows the LLM to access some additional context besides that of its training for a more efficient response  
-Implemented using python langchain, GGUF LLM that can be found on HuggingFace and chainlit for the UI. 
 
 ## Installation
 
