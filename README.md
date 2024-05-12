@@ -21,9 +21,11 @@ duration 2hr
 ![image](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/befccd39-c850-437d-8248-a822f8c10ff9)
 
 ## 2. Performance 
-![image](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/d2c2250a-d43d-43c5-b2ca-7a3104ebc01d)
+![accuracy2](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/ec0b346b-5cbc-471c-97fa-ed43cb657cd0)
 
-![loss2](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/9ace3de8-5fff-4fbe-85d4-e2ce3a6b637e)
+
+![loss2](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/3c5c5a68-01fc-4cca-afb5-f58c101f00cd)
+
 
 ## Installation
 
