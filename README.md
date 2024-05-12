@@ -43,4 +43,5 @@ this is done in parallel using torch data structure.
 
 ## 5. Results 
 to try it out. the script uses a video and performs the detection on every frame detecing and annotating the person identity 
+
 ![8pu0lo](https://github.com/00VALAK00/Facial-recognition-system/assets/117487025/5a87d117-dbc5-4dc9-bd4e-fc7d68f60239)
