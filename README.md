@@ -1,6 +1,6 @@
 # Facial Recognition Application With SNN & Yolov8
 
-the following repo hightlights how to train a siamese NN on a image similiarty using a public available dataset (LFW) and Intergrating it with Yolov8-face.
+the following repo hightlights how to train a siamese NN on a image similarity using a public available dataset (LFW) and Intergrating it with Yolov8-face.
 
 ## Workflow
 
